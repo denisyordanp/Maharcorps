@@ -1,0 +1,35 @@
+[26-Jul-2018 10:33:52 Asia/Jakarta] PHP Notice:  Undefined index: assist in /home/maharcor/public_html/system/core/add_goal.php on line 7
+[26-Jul-2018 20:17:31 Asia/Jakarta] PHP Notice:  Undefined index: type in /home/maharcor/public_html/system/core/new_activity.php on line 33
+[26-Jul-2018 20:19:46 Asia/Jakarta] PHP Notice:  Undefined index: type in /home/maharcor/public_html/system/core/new_activity.php on line 33
+[26-Jul-2018 20:20:52 Asia/Jakarta] PHP Notice:  Undefined index: createtype in /home/maharcor/public_html/system/core/new_activity.php on line 33
+[26-Jul-2018 20:20:59 Asia/Jakarta] PHP Notice:  Undefined index: createtype in /home/maharcor/public_html/system/core/new_activity.php on line 33
+[26-Jul-2018 20:22:33 Asia/Jakarta] PHP Notice:  Undefined index: type in /home/maharcor/public_html/system/core/new_activity.php on line 33
+[26-Jul-2018 21:22:42 Asia/Jakarta] PHP Notice:  Undefined index: datestart2 in /home/maharcor/public_html/system/core/edit_activity.php on line 14
+[26-Jul-2018 21:22:42 Asia/Jakarta] PHP Notice:  Undefined index: dateend in /home/maharcor/public_html/system/core/edit_activity.php on line 15
+[26-Jul-2018 22:11:35 Asia/Jakarta] PHP Warning:  Use of undefined constant mysqli_error - assumed 'mysqli_error' (this will throw an Error in a future version of PHP) in /home/maharcor/public_html/system/core/add_match.php on line 17
+[26-Jul-2018 22:12:04 Asia/Jakarta] PHP Warning:  Use of undefined constant mysqli_error - assumed 'mysqli_error' (this will throw an Error in a future version of PHP) in /home/maharcor/public_html/system/core/add_match.php on line 17
+[26-Jul-2018 22:12:51 Asia/Jakarta] PHP Warning:  Use of undefined constant mysqli_error - assumed 'mysqli_error' (this will throw an Error in a future version of PHP) in /home/maharcor/public_html/system/core/add_match.php on line 17
+[26-Jul-2018 22:13:12 Asia/Jakarta] PHP Warning:  Use of undefined constant mysqli_error - assumed 'mysqli_error' (this will throw an Error in a future version of PHP) in /home/maharcor/public_html/system/core/add_match.php on line 17
+[26-Jul-2018 23:06:53 Asia/Jakarta] PHP Notice:  Undefined variable: done in /home/maharcor/public_html/system/core/generate_match.php on line 33
+[27-Jul-2018 21:10:26 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5
+[27-Jul-2018 21:10:34 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5
+[27-Jul-2018 21:10:44 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5
+[27-Jul-2018 21:10:52 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5
+[27-Jul-2018 22:07:01 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5
+[27-Jul-2018 22:19:30 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5
+[27-Jul-2018 22:21:27 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5
+[27-Jul-2018 22:26:53 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5
+[27-Jul-2018 22:27:38 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5
+[27-Jul-2018 22:38:05 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5
+[27-Jul-2018 23:56:43 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5
+[28-Jul-2018 09:18:23 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5
+[28-Jul-2018 09:18:24 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5
+[28-Jul-2018 21:33:15 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5
+[28-Jul-2018 21:33:39 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5
+[28-Jul-2018 21:35:36 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5
+[01-Aug-2018 23:14:29 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5
+[01-Aug-2018 23:17:31 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5
+[02-Aug-2018 11:16:18 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5
+[03-Aug-2018 18:07:48 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5
+[03-Aug-2018 18:08:14 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5
+[03-Aug-2018 18:08:44 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/maharcor/public_html/system/core/verification_email.php on line 5

@@ -1,0 +1,10 @@
+<?php
+	$querryabout="SELECT * FROM about";
+	$querryactivity="SELECT id_activity, activity_name, activity_registration_start, activity_registration_end, activity_date, activity_end, DAY(activity_registration_start), MONTH(activity_registration_start), YEAR(activity_registration_start), DAY(activity_registration_end), MONTH(activity_registration_end), YEAR(activity_registration_end), DAY(activity_date), MONTH(activity_date), YEAR(activity_date), DAY(activity_end), MONTH(activity_end), YEAR(activity_end), activity_description, activity_status, activity_type, activity_location, activity_fee, activity_img FROM activity ORDER by activity_date DESC";
+	$querryannouncement="SELECT * FROM announcement";
+	$querryaccount="SELECT id_account, account_email, account_name, account_date_of_birth, DAY(account_date_of_birth), MONTH(account_date_of_birth), YEAR(account_date_of_birth), account_contact_number, account_address, account_password, account_user_type, account_img FROM account WHERE id_account!='1807130102'";
+	$querryallteam="SELECT id_team, account.id_account, account.account_name, account.account_date_of_birth, team_name, team_logo FROM futsal_team INNER JOIN account ON account.id_account=futsal_team.id_account";
+	$querrycoach="SELECT id_coach, id_team, coach_name, coach_date_of_birth, coach_img FROM futsal_coach";
+	$querryallplayer="SELECT id_player, futsal_team.id_team, futsal_team.team_name, player_name, player_number, player_date_of_birth, DAY(player_date_of_birth), MONTH(player_date_of_birth), YEAR(player_date_of_birth), player_img, player_requirement FROM futsal_player INNER JOIN futsal_team ON futsal_team.id_team=futsal_player.id_team";
+	$querryreferee="SELECT id_referee, referee_name, referee_date_of_birth, DAY(referee_date_of_birth), MONTH(referee_date_of_birth), YEAR(referee_date_of_birth), referee_img, referee_requirement FROM futsal_referee";
+?>
